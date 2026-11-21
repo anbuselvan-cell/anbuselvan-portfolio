@@ -1,0 +1,180 @@
+{
+  "profile": {
+    "name": "Anbuselvan T",
+    "title": "B.Tech Information Technology",
+    "tagline": "Software development student. Builder of a JARVIS AI assistant and an AI resume analyzer.",
+    "summary": "B.Tech Information Technology student with a strong interest in software development. I learned hands-on Python through the EMC channel on YouTube and built a JARVIS AI assistant. I am a quick learner with knowledge of Python, HTML and CSS, and I am looking for opportunities to apply my technical skills to real-world software development projects.",
+    "location": "Trichy, Tamil Nadu, India",
+    "email": "anbuselvanhacker11@gmail.com",
+    "phone": "9344045944",
+    "linkedin": "https://www.linkedin.com/in/Anbuselvan-3b19a1337",
+    "github": "https://github.com/anbuselvan-cell",
+    "photo": "photo.jpg"
+  },
+  "education": [
+    {
+      "school": "R P Sarathy Institute of Technology",
+      "course": "B.Tech Information Technology",
+      "years": "2024 to 2028",
+      "score": "CGPA 8.6"
+    },
+    {
+      "school": "Government Higher Secondary School, Senappanallur",
+      "course": "12th standard",
+      "years": "2023 to 2024",
+      "score": "75%"
+    },
+    {
+      "school": "Government Higher Secondary School, Senappanallur",
+      "course": "10th standard",
+      "years": "2021 to 2022",
+      "score": "65%"
+    }
+  ],
+  "skills": {
+    "technical": [
+      {
+        "name": "Python",
+        "level": "Basic"
+      },
+      {
+        "name": "Java",
+        "level": "Basic"
+      },
+      {
+        "name": "HTML",
+        "level": ""
+      },
+      {
+        "name": "CSS",
+        "level": ""
+      }
+    ],
+    "learning": [
+      "React",
+      "MongoDB"
+    ],
+    "soft": [
+      "Communication",
+      "Adaptability",
+      "Teamwork"
+    ]
+  },
+  "projects": [
+    {
+      "order": 1,
+      "title": "AI-Based Resume Analyzer",
+      "summary": "An AI resume analyzer that extracts key information from a resume, identifies skills and qualifications, and matches the candidate profile with a job description. It helps users find skill gaps, check how relevant their resume is, and improve it for better career opportunities.",
+      "highlights": [
+        "Reads PDF resumes in the browser and accepts an optional job description",
+        "Returns an overall score, an ATS score, strengths, gaps by severity, keyword matches and suggestions",
+        "Built to simplify resume evaluation and support the recruitment process with AI and NLP"
+      ],
+      "stack": [
+        "React",
+        "Vite",
+        "Google Gemini API",
+        "pdf.js",
+        "NLP"
+      ],
+      "links": [
+        {
+          "label": "View on GitHub",
+          "url": "https://github.com/anbuselvan-cell/AI-Rreume-analyzer"
+        }
+      ]
+    },
+    {
+      "order": 2,
+      "title": "JARVIS AI Assistant",
+      "summary": "A JARVIS style AI assistant written in Python. I built it while learning Python hands-on through the EMC channel on YouTube.",
+      "highlights": [
+        "My first hands-on Python project",
+        "Learned by building, one feature at a time"
+      ],
+      "stack": [
+        "Python"
+      ],
+      "links": [
+        {
+          "label": "More on GitHub",
+          "url": "https://github.com/anbuselvan-cell"
+        }
+      ]
+    }
+  ],
+  "journey": [
+    {
+      "date": "20 to 24 Jan 2025",
+      "kind": "Internship",
+      "title": "C Programming internship",
+      "org": "Odugaatech Pvt. Ltd.",
+      "detail": "Completed the internship program and received a certificate of completion."
+    },
+    {
+      "date": "25 Mar 2025",
+      "kind": "Event",
+      "title": "Quiz event, SCIENTIA 2K25",
+      "org": "AVS Engineering College, Salem",
+      "detail": "Took part in the quiz at this national level technical symposium."
+    },
+    {
+      "date": "28 Jun to 5 Jul 2025",
+      "kind": "Internship",
+      "title": "Full Stack Web and Mobile App Development internship",
+      "org": "DEV Technology Solutions, Salem",
+      "detail": "Completed a one-week internship program with wonderful remarks."
+    },
+    {
+      "date": "Sports Day 2026",
+      "kind": "Achievement",
+      "title": "400m Relay, 2nd place",
+      "org": "R P Sarathy Institute of Technology",
+      "detail": "Won second place in the 400m relay at the intra college sports day."
+    }
+  ],
+  "certificates": [
+    {
+      "order": 1,
+      "title": "Internship: C Program",
+      "issuer": "Odugaatech Pvt. Ltd.",
+      "date": "20 to 24 Jan 2025",
+      "image": "cert-c.jpg"
+    },
+    {
+      "order": 2,
+      "title": "Quiz: SCIENTIA 2K25",
+      "issuer": "AVS Engineering College",
+      "date": "25 Mar 2025",
+      "image": "cert-scientia.jpg"
+    },
+    {
+      "order": 3,
+      "title": "Internship: Mobile App Development",
+      "issuer": "DEV Technology Solutions",
+      "date": "28 Jun to 5 Jul 2025",
+      "image": "cert-dev.jpg"
+    },
+    {
+      "order": 4,
+      "title": "400m Relay, 2nd place",
+      "issuer": "R P Sarathy Institute of Technology",
+      "date": "Sports Day 2026",
+      "image": "cert-sports.jpg"
+    },
+    {
+      "order": 5,
+      "title": "UI and UX certification",
+      "issuer": "Make Labs",
+      "date": "",
+      "image": ""
+    },
+    {
+      "order": 6,
+      "title": "All India NCAT",
+      "issuer": "Naukri Campus",
+      "date": "",
+      "image": ""
+    }
+  ]
+}
