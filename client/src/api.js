@@ -7,7 +7,7 @@ export const bundled = fallback;
 
 export async function loadPortfolio() {
   const ctrl = new AbortController();
-  const timer = setTimeout(() => ctrl.abort(), 4000);
+  const timer = setTimeout(() => ctrl.abort(), 25000);
   try {
     const res = await fetch(`${BASE}/api/portfolio`, { signal: ctrl.signal });
     if (!res.ok) throw new Error(`Status ${res.status}`);
